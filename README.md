@@ -22,7 +22,7 @@
 ## About The Project
 
 <div align="center">
-  <img src="Footcap20%Shoes20%Website/assets/images/desktop.png" alt="FootCap Shoes Website Screenshot" width="100%"/>
+  <img src="Footcap%20Shoes%20Website/assets/images/desktop.png" alt="FootCap Shoes Website Screenshot" width="100%"/>
 </div>
 
 **FootCap Shoes Website** is a stylish, modern, and responsive eCommerce landing page designed for showcasing premium footwear collections.  
@@ -37,8 +37,6 @@ It focuses on elegant design, brand storytelling, and smooth user experience —
 
 The project blends **creativity and minimalism** to deliver a professional shopping website look — ideal for learning or real-world portfolio use.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## Built With
@@ -47,8 +45,6 @@ This project was built using:
 
 * [HTML5](https://html5.org/)  
 * [CSS3](https://css3.com/)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
