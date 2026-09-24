@@ -18,7 +18,7 @@
 <br />
 
 <!-- 🔰 PROJECT LOGO -->
-<img src="Footcap%20Shoes%20Website/assets/images/logo.png" alt="FootCap Shoes Website Logo" width="120"/>
+<img src="Footcap%20Shoes%20Website/assets/images/logo.svg" alt="FootCap Shoes Website Logo" width="120"/>
 
 <br />
 <br />
