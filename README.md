@@ -80,7 +80,6 @@ Ideal for:
 - Clean typography and structured content
 - Responsive navigation and page sections
 - Smooth scrolling and visual interactions
-- Mobile-friendly design
 - Easy to customize and expand
 
 ---
